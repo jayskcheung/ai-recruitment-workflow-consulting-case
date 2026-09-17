@@ -1,11 +1,34 @@
-# ai-recruitment-workflow-consulting-case
-Anonymized consulting proposal: GenAI workflow optimization for a recruitment tech company — problem diagnosis, risk &amp; ethics analysis, dual-scenario ROI model.
 # 招聘流程 AI 工作流优化咨询提案｜脱敏案例
 
-> **AI Workflow Optimization Proposal for Recruitment Process (Anonymized Case)**
->
+**Anonymized Consulting Case — GenAI Workflow Optimization for Technical Recruiting**
+
 > 本方案为硕士课程《分析咨询与策略》（Analytics Consulting & Strategy）的真实企业客户咨询项目脱敏版。
 > 企业名称、关键人名、外部对话链接等可识别信息已做匿名化处理，仅保留方法论、工具定义、风险/伦理分析与量化论证框架，用于个人作品集展示。
+
+**[阅读完整提案（PDF · 30 页）](./ai-recruitment-workflow-consulting-case.pdf)** ｜ **[Word 版下载](./招聘流程AI工作流优化_咨询提案_脱敏版.docx)**
+
+---
+
+## Executive Summary（EN）
+
+A consulting proposal for a fast-scaling recruitment technology company whose technical hiring was bottlenecked by inconsistent intake requirements, outdated skill specifications, and a slow iterative JD approval loop.
+
+**My role:** project lead — problem diagnosis, end-to-end workflow design, risk and control design, dual-scenario ROI modelling, and final proposal writing.
+
+**Proposed solution:** a GenAI-assisted workflow built from six modular tools, each with an explicit purpose, inputs, outputs and decision rules, with human-in-the-loop checkpoints at every risk-bearing step.
+
+**Modelled impact:**
+
+| Metric | Baseline | Target |
+|---|---|---|
+| Average time-to-hire (technical roles) | 60 days | 48 days |
+| JD drafting time | 2–3 hours | 30 minutes |
+| JD review cycle | 3–4 days | Half a day |
+| First-pass JD approval rate | 50% | 90% |
+
+**Dual-scenario ROI:** ≈ 92.7× (20 roles/month, base case) ｜ ≈ 63.9× (10 roles/month, conservative case).
+
+*All figures are modelled projections and targets set during the course project — not post-implementation measurements.* A 4-week pilot is proposed with predefined acceptance thresholds: drafting ≤ 45 minutes, first-pass approval ≥ 80%, hiring manager satisfaction ≥ 4.5 / 5.
 
 ---
 
@@ -136,24 +159,23 @@ Anonymized consulting proposal: GenAI workflow optimization for a recruitment te
 
 | 文件 | 说明 |
 |---|---|
-| `招聘流程AI工作流优化_咨询提案_脱敏版.docx` | 完整咨询提案（Word 版，约 30 页） |
-| `招聘流程AI工作流优化_咨询提案_脱敏版.pdf` | PDF 版（建议另存，便于在线预览） |
+| `ai-recruitment-workflow-consulting-case.pdf` | 完整咨询提案（PDF，30 页，推荐在线阅读） |
+| `招聘流程AI工作流优化_咨询提案_脱敏版.docx` | 同内容 Word 版，便于下载引用 |
 | `README.md` | 本文件 |
 
 ---
 
 ## 九、使用与发布说明
 
-1. **脱敏声明**：本案例中企业名称、关键人名、外部对话链接已做匿名化处理，所有量化数据为方案测算与目标设定，非上线后实测。
-2. **课程项目说明**：本提案源自硕士课程《分析咨询与策略》（Analytics Consulting & Strategy）的真实企业客户咨询项目，经导师同意后用于个人作品集。
-3. **建议格式**：GitHub 上同时上传 **PDF 版**（便于浏览器预览）和 **Word 版**（便于下载）。
-4. **不公开原文件**：请勿将包含客户原始信息的版本、小组成员名单或 LLM 对话分享链接一并公开。
+1. **脱敏声明**：本案例中企业名称、关键人名、外部对话链接已做匿名化处理；所有量化数据为方案测算与目标设定，非上线后实测结果。
+2. **来源说明**：本提案源自硕士课程《分析咨询与策略》（Analytics Consulting & Strategy）的真实企业客户咨询项目，经脱敏后用于个人作品集。
+3. **本仓库不含任何客户原始信息**，不包含小组成员名单、导师信息或任何外部对话分享链接。
 
 ---
 
 ## 十、联系方式
 
-- 作者：张世杰
+- 作者：张世杰（Shijie Zhang）
 - 邮箱：jay.skcheung@gmail.com
 - 定位：商业分析 / 咨询分析 / 风险与合规分析
 
